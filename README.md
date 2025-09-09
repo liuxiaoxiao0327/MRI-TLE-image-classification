@@ -1,5 +1,5 @@
-work flow / pipeline in '/graphs'
-models + feature engineering in '/models'
+- work flow / pipeline in '/graphs'
+- models + feature engineering in '/models'
 
 # SOFTWARE AND HARDWARE
 1. Mango 4.1: MRI format conversion and visualization
