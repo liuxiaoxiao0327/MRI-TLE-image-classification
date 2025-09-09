@@ -5,6 +5,7 @@
 1. Mango 4.1: MRI format conversion and visualization
 2. FreeSurfer 8.0.0: preprocessing and cortical data examination using FreeView
 3. LaTeX/PowerPoint/Exel/MATLAB: graphs/tables
+4. Ubuntu 20.04.1 with an Intel Xeon Gold 6133 processor (256GB RAM) and NVIDIA Tesla V100-DGXS-32GB GPU acceleration
 
 # DATASET
 - This project was conducted in collaboration with West China Hospital, Sichuan University,
